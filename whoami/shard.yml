@@ -1,0 +1,13 @@
+name: whoami
+version: 0.1.0
+
+authors:
+  - Bradleyd Smith <brad@parkifi.com>
+
+targets:
+  whoami:
+    main: src/whoami.cr
+
+crystal: 0.21.1
+
+license: MIT
